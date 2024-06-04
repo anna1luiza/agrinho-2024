@@ -1,0 +1,12 @@
+body{
+
+background-color: bisque
+
+}
+
+.cabecalho{
+ display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
